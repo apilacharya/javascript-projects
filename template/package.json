@@ -1,0 +1,17 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserlists": [
+    "last 1 chrome versions"
+  ],
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
